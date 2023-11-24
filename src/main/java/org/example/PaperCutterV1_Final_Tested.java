@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PaperCutterV1_Final_Tested {
+
+//    Dhiraj PC
     public static List<CutPiece> cutPaperRoll_Horizontally(PaperRoll paperRoll, double cutLength, double cutWidth) {
         List<CutPiece> cutPieces_1st_Method = new ArrayList<>();
 
